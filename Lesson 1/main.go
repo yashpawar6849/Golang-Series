@@ -1,4 +1,4 @@
-// Lesson 1
+// Lesson 1 Hello From Go Program
 // This is a simple Go program that prints "Hello From Go!" to the console.
 
 package main // The package declaration. In Go, every file belongs to a package. The "main" package is a special package that indicates that this file is an executable program.
