@@ -21,3 +21,9 @@ func main() {
 	fmt.Println(myBool)
 
 }
+
+//Output:
+//Command: go run main.go
+//Welcome To Golang Series
+//100
+//true
